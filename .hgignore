@@ -1,0 +1,7 @@
+syntax: glob
+*~
+*.bak
+.settings/*
+build/*
+dist/*
+out/*
